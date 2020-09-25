@@ -2,13 +2,6 @@
 repository: eax94/eax94.github.io
 favicon: images/favicon.ico
 
-# Localization
-languages: [ "en", "es"
-defaultLang: en
-languageNames:
-  en: English
-  es: Español
-
 # Personal info
 name: Lucas García Laporta
 title: Game Developer
@@ -86,20 +79,5 @@ exclude : [
   "vendor/ruby/",
   "lib/",
   "scripts/",
-  "docker-compose.yml"
-]
-
-exclude_from_localizations: [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
   "docker-compose.yml",
-  "images/",
-  "assets/"
 ]
