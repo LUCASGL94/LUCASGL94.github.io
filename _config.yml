@@ -2,9 +2,6 @@
 repository: eax94/eax94.github.io
 favicon: images/favicon.ico
 
-# Localization
-languages: [ "en", "es" ]
-
 # Personal info
 name: Lucas García Laporta
 title: Game Developer
@@ -71,7 +68,6 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - jekyll-multiple-languages-plugin
 
 exclude : [
   "Gemfile",
