@@ -1,0 +1,57 @@
+# Experience template
+- layout: left
+  company: Jam City
+  link: www.jamcity.com
+  job_title: Desarrollador Ssr
+  dates: Agosto 2017 - Presente
+  description: |
+    Desarrollo y mantenimiento de los juegos de Jam City.
+    Participated on [*Juice Jam*](https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp) (iOS/Android/Amazon/Facebook),
+    [*Panda Pop*](https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp) (iOS/Android)
+    and currently working on [*Family Guy: Another Freaking Mobile Game*](https://play.google.com/store/apps/details?id=air.com.sgn.familyguy.gp) (iOS/Android).
+
+    I work in a lot of implementations, my tasks are, but not limited to:
+    - Build high-quality gameplay features to specification.
+    - Game performance optimization.
+    - Creation and estimation of new tasks.
+    - Creation of scripts and tools to help streamline the development process.
+    - Installation and configuration of build servers for our games.
+    - Solve challenging and complex problems.
+    - Work effectively as part of a multi-disciplinary team of engineers, artists, designers, producers and QA.
+
+    Technologies: <mark>C#</mark> <mark>Unity</mark> <mark>ActionScript3</mark> <mark>Python</mark> <mark>Bash</mark> <mark>PHP</mark> <mark>Git</mark>
+
+- layout: left
+  company: Remoting Coders
+  link: www.remotingcoders.com
+  job_title: Jr Software Engineer
+  dates: November 2015 - August 2016
+  description: |
+    Development of products for Microsoft Dynamics CRM 2016 Online & Premise.
+
+    I worked with clients all over the world to understand their needs and develop a suitable product for them.
+    - Creation, estimation and implementation of new tasks.
+    - Work closely with clients to understand their needs.
+
+    Technologies: <mark>C#</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>TFS</mark>
+
+- layout: left
+  company: GAMINGA
+  job_title: Programmer
+  dates: June 2009 - December 2016
+  description: |
+    GAMINGA was an online gaming community with several hundred of users per day.
+    I was a plugin developer for Counter Strike 1.6 and configuration of servers.
+    Also worked on the website and forum.
+
+    My tasks were:
+    - Creation of new and original mods for the game.
+    - Designing and implementing new features for the game.
+    - Understanding the inside of the game engine.
+    - Understanding what users wanted.
+    - Managing a MySQL DB to use with my plugins.
+    - Daily/Weekly reports of the game servers stats.
+    - Creating a mobile app to communicate with the game server.
+    - Creating new maps for the different mods.
+
+    Technologies: <mark>Pawn</mark> <mark>C++</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Git</mark>
