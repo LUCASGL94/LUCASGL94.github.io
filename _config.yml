@@ -71,7 +71,7 @@ sass:
 
 plugins:
  - jekyll-seo-tag
- - multiple-languages
+ - jekyll-multiple-languages-plugin
 
 exclude : [
   "Gemfile",
