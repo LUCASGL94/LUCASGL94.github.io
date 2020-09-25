@@ -1,0 +1,83 @@
+# Site
+repository: eax94/eax94.github.io
+favicon: images/favicon.ico
+
+# Personal info
+name: Lucas García Laporta
+title: Game Developer
+email: lucas.garcia.laporta@gmail.com
+address: Buenos Aires, Argentina
+address_google_maps: https://www.google.com/maps/place/Caballito,+Buenos+Aires,+Argentina/@15.6648625,-33.9537938,3z/data=!4m5!3m4!1s0x95bcca440ec19097:0xaa49073b625536c7!8m2!3d-34.6180674!4d-58.4337441
+phone: +54 9 11 6589-7710
+
+# Dark Mode
+darkmode: true
+
+# Social links
+#twitter_username:
+github_username: EAX94
+stackoverflow_username: "4671900"
+hackerrank_username: "KISKE"
+#dribbble_username:
+#facebook_username:
+#flickr_username:
+#instagram_username:
+linkedin_username: lucas-garcía-laporta
+#xing_username:
+#pinterest_username:
+#youtube_username:
+#googleplus_username:
+#orcid_username:
+
+#
+# Use | for a new line
+#
+
+# About Section
+about_title: About Me
+about_profile_image: images/profile.png
+about_content: |
+  ##### Born June 28, 1994.
+
+  I'm a game developer, enthusiastic software engineer and an analytical person. Passionated about optimization, reverse engineering and how things works.
+
+  I enjoy challenges and complex problems to find the best solution. I’m a programmer curious to know how the software works and how it could be improved.
+
+# Experience Section
+experience_title: Experience
+
+# Education Section
+education_title: Education
+
+# Projects Section
+projects_title: Projects
+
+# More Section
+more_title: Interests
+more_content: |
+  + Quantum programming.
+  + Reverse engineering.
+  + Chess.
+
+# Footer
+footer_show_references: false
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+]
