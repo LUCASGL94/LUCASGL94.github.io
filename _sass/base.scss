@@ -263,7 +263,7 @@ body {
   margin-left: 0;
 }
 
-.col-md-7 {
+.fix-padding > [class*="col-md-6"] {
   padding-right: 0;
   padding-left: 0;
 }
