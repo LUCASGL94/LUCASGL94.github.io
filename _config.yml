@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Localization
 languages: [ "en", "es" ]
-default_lang: "en"
+default_lang: "es"
 exclude_from_localization: [ "javascript", "images", "css", "README.md" ]
 parallel_localization: true
 
