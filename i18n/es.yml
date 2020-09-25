@@ -1,2 +1,6 @@
 site:
   about_title: Sobre Mi
+
+global:
+  english: English 
+  spanish: Español
