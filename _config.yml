@@ -3,10 +3,7 @@ repository: eax94/eax94.github.io
 favicon: images/favicon.ico
 
 # Localization
-languages: [ "en", "es" ]
-default_lang: "es"
-exclude_from_localization: [ "javascript", "images", "css", "README.md" ]
-parallel_localization: true
+lang: "es"
 
 # Personal info
 name: Lucas García Laporta
@@ -46,6 +43,12 @@ about_content: |
   ##### Born June 28, 1994.
 
   I'm a game developer, enthusiastic software engineer and an analytical person. Passionated about optimization, reverse engineering and how things works.
+
+  I enjoy challenges and complex problems to find the best solution. I’m a programmer curious to know how the software works and how it could be improved.
+about_content_es: |
+  ##### Nacido el 28 de Junio, 1994.
+
+  Soy un desarrollador de videojuegos, desarrollador de software entusiasta y una persona analítica. Apasionado sobre la optimización, ingeniería inversa y por el cómo funcionan las cosas.
 
   I enjoy challenges and complex problems to find the best solution. I’m a programmer curious to know how the software works and how it could be improved.
 
