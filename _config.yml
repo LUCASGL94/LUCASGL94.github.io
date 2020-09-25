@@ -2,9 +2,6 @@
 repository: eax94/eax94.github.io
 favicon: images/favicon.ico
 
-# Localization
-lang: "es"
-
 # Personal info
 name: Lucas García Laporta
 title: Game Developer
@@ -45,6 +42,7 @@ about_content: |
   I'm a game developer, enthusiastic software engineer and an analytical person. Passionated about optimization, reverse engineering and how things works.
 
   I enjoy challenges and complex problems to find the best solution. I’m a programmer curious to know how the software works and how it could be improved.
+about_title_es: About Me
 about_content_es: |
   ##### Nacido el 28 de Junio, 1994.
 

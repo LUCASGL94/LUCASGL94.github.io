@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
-
 {%- include head.html -%}
 
 <body class="{% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
@@ -43,5 +40,3 @@
     <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
   {% endif %}
 </body>
-
-</html>
