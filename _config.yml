@@ -4,7 +4,7 @@ favicon: images/favicon.ico
 
 # Personal info
 name: Lucas García Laporta
-title: Game Developer
+title: Senior Software Engineer
 email: lucas.garcia.laporta@gmail.com
 address: Buenos Aires, Argentina
 address_google_maps: https://www.google.com/maps/place/Caballito,+Buenos+Aires,+Argentina/@15.6648625,-33.9537938,3z/data=!4m5!3m4!1s0x95bcca440ec19097:0xaa49073b625536c7!8m2!3d-34.6180674!4d-58.4337441
@@ -55,9 +55,11 @@ projects_title: Projects
 # More Section
 more_title: Interests
 more_content: |
-  + Quantum programming.
+  + Artificial intelligence.
   + Reverse engineering.
   + Chess.
+  + Quantum programming.
+  + Astronomy.
 
 # Footer
 footer_show_references: false
