@@ -2,16 +2,14 @@
 - layout: left
   name: Universidad Abierta Interamericana
   dates: 2020 - Present
-  qualification: Bachelor's Degree in Video Game Production
-  description: |
-    In course.
+  qualification: Master Degree in Video Games Production
 
 - layout: left
   name: Universidad Abierta Interamericana
   dates: 2014 - 2016
-  qualification: University Technician in Video Game Development
+  qualification: Bachelor's Degree in Video Games Development
   description: |
-    Career mainly oriented to programming, but I also learned a lot about 2D and 3D modelling, game and narrative designing.
+    Career mainly oriented to programming, but I also learned 2D and 3D modelling, game and narrative designing.
 
 - layout: left
   name: Languages

@@ -2,15 +2,15 @@
 - layout: left
   company: Jam City
   link: www.jamcity.com
-  job_title: Senior Software Engineer
+  job_title: Ssr Software Engineer
   dates: August 2017 - Present
   description: |
     Development and maintenance of Jam City games.
     Participated on [*Juice Jam*](https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp) (iOS/Android/Amazon/Facebook),
-    [*Panda Pop*](https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp) (iOS/Android)
-    and currently working on [*Family Guy: Another Freaking Mobile Game*](https://play.google.com/store/apps/details?id=air.com.sgn.familyguy.gp) (iOS/Android).
+    [*Family Guy: Another Freaking Mobile Game*](https://play.google.com/store/apps/details?id=air.com.sgn.familyguy.gp) (iOS/Android) 
+    and currently working on [*Panda Pop*](https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp) (iOS/Android).
 
-    I work in a lot of implementations, my tasks are, but not limited to:
+    I work in several tasks, some of them are:
     - Build high-quality gameplay features to specification.
     - Game performance optimization.
     - Creation and estimation of new tasks.
@@ -24,8 +24,8 @@
 - layout: left
   company: Remoting Coders
   link: www.remotingcoders.com
-  job_title: Junior Software Engineer
-  dates: September 2015 - March 2016
+  job_title: Jr Software Engineer
+  dates: November 2015 - August 2016
   description: |
     Development of products for Microsoft Dynamics CRM 2016 Online & Premise.
 
@@ -37,8 +37,8 @@
 
 - layout: left
   company: GAMINGA
-  job_title: Software Engineer
-  dates: June 2009 - December 2017
+  job_title: Programmer
+  dates: June 2009 - December 2016
   description: |
     GAMINGA was an online gaming community with several hundred of users per day.
     I was a plugin developer for Counter Strike 1.6 and configuration of servers.
