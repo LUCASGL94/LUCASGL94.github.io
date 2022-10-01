@@ -1,13 +1,15 @@
 # Education Template
 - layout: left
-  name: Universidad Abierta Interamericana
+  name: Master Degree in Video Games Production
   dates: 2020 - Present
-  qualification: Master Degree in Video Games Production
+  qualification: Universidad Abierta Interamericana
+  description: |
+    Continuation of previous career, mostly oriented to in deep knowledge of Unity and C#, business and researching.
 
 - layout: left
-  name: Universidad Abierta Interamericana
+  name: Bachelor's Degree in Video Games Development
   dates: 2014 - 2016
-  qualification: Bachelor's Degree in Video Games Development
+  qualification: Universidad Abierta Interamericana
   description: |
     Career mainly oriented to programming, but I also learned 2D and 3D modelling, game and narrative designing.
 
@@ -15,6 +17,6 @@
   name: Languages
   description: |
 
-    **Spanish:** Native or bilingual proficiency.
-
     **English:** Professional proficiency.
+
+    **Spanish:** Native or bilingual proficiency.

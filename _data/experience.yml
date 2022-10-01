@@ -1,9 +1,19 @@
 # Experience template
 - layout: left
+  company: Gram Games
+  link: www.gram.gs
+  job_title: Senior Software Engineer
+  dates: July 2022 - Present
+  description: |
+    Development of Pirate Evolution! game.
+
+    Technologies: <mark>C#</mark> <mark>Unity</mark> <mark>Python</mark> <mark>Bash</mark> <mark>Git</mark>
+
+- layout: left
   company: Jam City
   link: www.jamcity.com
   job_title: Senior Software Engineer
-  dates: August 2017 - Present
+  dates: August 2017 - July 2022
   description: |
     Development and maintenance of Jam City games.
     Participated on [*Juice Jam*](https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp) (iOS/Android/Amazon/Facebook),
