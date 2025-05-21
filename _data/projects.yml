@@ -1,11 +1,29 @@
 # Project template
 - layout: top-middle
+  name: Entity List Finder
+  github: EAX94/Entity-List-Finder
+  quote: >
+    A reverse engineering tool that helps you to find the entity list of a videogame.
+  description: |
+    I wanted to practice how memory worked at low level and having a goal in mind to create a tool helped on that.
+
+    Made in C# using .NET Framework.
+
+- layout: top-middle
   name: Rocket
-  github: eax94/rocket
+  github: EAX94/Rocket
   quote: >
     Portal 2D video game made in Unity
   description: |
     I wanted to work with portals and their physics in a 2D environment.
     I also designed the levels.
 
-    Made in Unity as a personal project.
+    Made in Unity as a personal project for College.
+
+- layout: top-middle
+  name: Name
+  github: github link
+  quote: >
+    quote
+  description: |
+    description

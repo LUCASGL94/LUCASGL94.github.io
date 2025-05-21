@@ -33,14 +33,14 @@ linkedin_username: lucas-garcía-laporta
 #
 
 # About Section
-about_title: About Me
-about_profile_image: images/profile.png
-about_content: |
+#about_title: About Me
+#about_profile_image: images/profile.png
+#about_content: |
   ##### Born June 28, 1994.
 
-  I'm a game developer, enthusiastic software engineer and an analytical person. Passionated about optimization, reverse engineering and how things works.
+#  I'm a game developer, enthusiastic software engineer and an analytical person. Passionated about optimization, reverse engineering and how things works.
 
-  I enjoy challenges and complex problems to find the best solution. I’m a programmer curious to know how the software works and how it could be improved.
+#  I enjoy challenges and complex problems to find the best solution. I’m a programmer curious to know how the software works and how it could be improved.
 
 # Experience Section
 experience_title: Experience
@@ -52,12 +52,12 @@ education_title: Education
 projects_title: Projects
 
 # More Section
-more_title: Interests
-more_content: |
-  + Reverse engineering.
-  + Artificial intelligence.
-  + Chess.
-  + Astronomy.
+#more_title: Interests
+#more_content: |
+#  + Reverse engineering.
+#  + Artificial intelligence.
+#  + Chess.
+#  + Astronomy.
 
 # Footer
 footer_show_references: false

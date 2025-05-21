@@ -5,9 +5,18 @@
   job_title: Senior Software Engineer
   dates: July 2022 - Present
   description: |
-    Development of Pirate Evolution! game.
+    [*Merge Dragons!*](https://play.google.com/store/apps/details?id=com.gramgames.mergedragons)
 
-    Technologies: <mark>C#</mark> <mark>Unity</mark> <mark>Python</mark> <mark>Bash</mark> <mark>Git</mark>
+    [*Merge Magic!*](https://play.google.com/store/apps/details?id=com.gramgames.mergemagic)
+
+    Pirate Evolution! (Retired)
+
+    - Implemented new gameplay and system features.
+    - Investigated memory usage and FPS drops to identify performance bottlenecks.
+    - Proposed and implemented performance improvements across gameplay and engine systems.
+    - Responsible for addressing and resolving live issues in production builds.
+
+    Technologies: <mark>C#</mark> <mark>Unity</mark> <mark>Python</mark> <mark>Bash</mark> <mark>Git</mark> <mark>GitLab</mark> <mark>Jira</mark> <mark>TeamCity</mark> <mark>Embrace</mark> <mark>Bugsnag</mark> <mark>Crashlytics</mark>
 
 - layout: left
   company: Jam City
@@ -15,21 +24,18 @@
   job_title: Senior Software Engineer
   dates: August 2017 - July 2022
   description: |
-    Development and maintenance of Jam City games.
-    Participated on [*Panda Pop*](https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp) (iOS/Android), 
-    [*Juice Jam*](https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp) (iOS/Android/Amazon/Facebook) and 
-    [*Family Guy: Another Freaking Mobile Game*](https://play.google.com/store/apps/details?id=air.com.sgn.familyguy.gp) (iOS/Android)
+    [*Panda Pop*](https://play.google.com/store/apps/details?id=com.sgn.pandapop.gp)
 
-    I work in several tasks, some of them are:
-    - Build high-quality gameplay features to specification.
-    - Game performance optimization.
-    - Creation and estimation of new tasks.
-    - Creation of scripts and tools to help streamline the development process.
-    - Installation and configuration of build servers for our games.
-    - Solve challenging and complex problems.
-    - Work effectively as part of a multi-disciplinary team of engineers, artists, designers, producers and QA.
+    [*Family Guy: Another Freaking Mobile Game*](https://play.google.com/store/apps/details?id=air.com.sgn.familyguy.gp)
 
-    Technologies: <mark>C#</mark> <mark>Unity</mark> <mark>ActionScript3</mark> <mark>Python</mark> <mark>Bash</mark> <mark>PHP</mark> <mark>Git</mark>
+    [*Juice Jam*](https://play.google.com/store/apps/details?id=air.com.sgn.juicejam.gp) 
+
+    - Developed core gameplay systems aligned with design goals.
+    - Optimized performance across gameplay and rendering layers.
+    - Built internal tools to accelerate workflows for QA and content teams.
+    - Maintained CI/CD pipelines for multi-platform builds.
+
+    Technologies: <mark>C#</mark> <mark>Unity</mark> <mark>Python</mark> <mark>Bash</mark> <mark>PHP</mark> <mark>ActionScript3</mark> <mark>Git</mark> <mark>GitHub</mark> <mark>Jira</mark> <mark>Jenkins</mark> <mark>Crashlytics</mark>
 
 - layout: left
   company: Remoting Coders
@@ -37,31 +43,29 @@
   job_title: Junior Software Engineer
   dates: September 2015 - March 2016
   description: |
-    Development of products for Microsoft Dynamics CRM 2016 Online & Premise.
+    Developed solutions for Microsoft Dynamics CRM 2016 (Online & On-Premises).
 
-    I worked with clients all over the world to understand their needs and develop a suitable product for them.
-    - Creation, estimation and implementation of new tasks.
-    - Work closely with clients to understand their needs.
+    Collaborated with international clients to gather requirements and deliver tailored products.
+
+    - Defined, estimated, and implemented new features.
+    - Engaged directly with clients to understand business needs and translate them into technical solutions.
 
     Technologies: <mark>C#</mark> <mark>JavaScript</mark> <mark>TypeScript</mark> <mark>TFS</mark>
 
 - layout: left
-  company: GAMINGA
+  company: GAMINGA / Taringa! CS
   job_title: Software Engineer
   dates: June 2009 - December 2017
   description: |
-    GAMINGA was an online gaming community with several hundred of users per day.
-    I was a plugin developer for Counter Strike 1.6 and configuration of servers.
-    Also worked on the website and forum.
+    GAMINGA / Taringa! CS was a high-traffic online gaming community focused on Counter-Strike 1.6, with several hundred daily active users. I contributed as a plugin developer, server administrator, and full-stack contributor to the website and forum.
 
-    My tasks were:
-    - Creation of new and original mods for the game.
-    - Designing and implementing new features for the game.
-    - Understanding the inside of the game engine.
-    - Understanding what users wanted.
-    - Managing a MySQL DB to use with my plugins.
-    - Daily/Weekly reports of the game servers stats.
-    - Creating a mobile app to communicate with the game server.
-    - Creating new maps for the different mods.
+    Key responsibilities:
+    - Designed and scripted original AMXX gameplay mods tailored to community-driven modes.
+    - Developed server-side plugins with MySQL integration for persistent gameplay features.
+    - Analyzed engine behavior to implement advanced mechanics and improve gameplay balance.
+    - Created custom maps using Valve Hammer Editor to support new mod objectives.
+    - Built a mobile companion app for real-time server monitoring and user interaction.
+    - Collaborated with a large online player base to iterate on design and features based on feedback.
+    - Monitored server usage stats and produced regular performance reports.
 
-    Technologies: <mark>Pawn</mark> <mark>C++</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Git</mark>
+    Technologies: <mark>Pawn</mark> <mark>C++</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Git</mark> <mark>UNIX</mark>
