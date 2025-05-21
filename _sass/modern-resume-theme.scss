@@ -72,24 +72,17 @@
 }
 
 .layout-grid-left .header-block h4 {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0;
 }
 
 .icon-container {
-  margin-bottom: 0rem;
-}
-
-.icon-link {
-  margin: 0 0.5em;
-  font-size: 1.5em;
-  color: inherit;
-  text-decoration: none;
+  margin-bottom: 0;
 }
 
 .layout-grid-left .quote {
   font-style: italic;
-  margin-top: 0rem;
-  margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
 }
 
 .layout-grid-left .description {
@@ -98,7 +91,7 @@
 }
 
 .layout-grid-left > .icon-container > .icon-link {
-  margin: 0 0.5em;
+  margin: 0;
   font-size: 1.5em;
   color: inherit;
   text-decoration: none;

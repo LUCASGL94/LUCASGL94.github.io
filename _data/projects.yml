@@ -23,9 +23,8 @@
   quote: >
     A reverse engineering tool designed to extract the entity list from a video game.
   description: |
-    Developed to deepen my understanding of low-level memory management through a practical project.
-
-    Implemented in C# using the .NET Framework.
+    - Developed to deepen my understanding of low-level memory management through a practical project.
+    - Implemented in C# using the .NET Framework.
 
 - layout: top-middle
   name: Rocket
