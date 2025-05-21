@@ -19,6 +19,13 @@
         </a>
       </p>
     {%- endif -%}
+    {%- if include.item.appstore -%}
+      <p class="no-print">
+        <a href="{{ include.item.appstore }}" target="_blank">
+          <i class="fa fa-apple" title="{{ include.item.name }} App Store link"></i>
+        </a>
+      </p>
+    {%- endif -%}
   </div>
   <div class="description">
     {%- if include.item.quote -%}

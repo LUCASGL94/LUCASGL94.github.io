@@ -1,29 +1,37 @@
 # Project template
 - layout: top-middle
+  name: Let's Go Champ
+  #github: EAX94/Entity-List-Finder
+  quote: >
+    A fast-paced 2D side-view boxing game inspired by Smash Bros mechanics..
+  description: |
+    - Implemented core gameplay, UI, and game logic based on provided assets and design specs.
+    - Handled full programming and collaborated with a project manager to deliver the final product.
+
+- layout: top-middle
+  name: Knuckle Sammich
+  appstore: https://apps.apple.com/us/app/knuckle-sammich/id6472512528
+  quote: >
+    A 2D vertical falling catch videogame.
+  description: |
+    - Implemented core gameplay, UI, and game logic based on provided assets and design specs.
+    - Collaborated with a developer to deliver a complete, optimized game.
+
+- layout: top-middle
   name: Entity List Finder
   github: EAX94/Entity-List-Finder
   quote: >
-    A reverse engineering tool that helps you to find the entity list of a videogame.
+    A reverse engineering tool designed to extract the entity list from a video game.
   description: |
-    I wanted to practice how memory worked at low level and having a goal in mind to create a tool helped on that.
+    Developed to deepen my understanding of low-level memory management through a practical project.
 
-    Made in C# using .NET Framework.
+    Implemented in C# using the .NET Framework.
 
 - layout: top-middle
   name: Rocket
   github: EAX94/Rocket
   quote: >
-    Portal 2D video game made in Unity
+    2D puzzle-platformer inspired by Portal, featuring portal-based physics mechanics.
   description: |
-    I wanted to work with portals and their physics in a 2D environment.
-    I also designed the levels.
-
-    Made in Unity as a personal project for College.
-
-- layout: top-middle
-  name: Name
-  github: github link
-  quote: >
-    quote
-  description: |
-    description
+    - Developed a 2D portal physics system and designed corresponding levels.
+    - Created as a personal project using Unity for academic purposes.
