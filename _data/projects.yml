@@ -3,7 +3,7 @@
   name: Let's Go Champ
   #github: EAX94/Entity-List-Finder
   quote: >
-    A fast-paced 2D side-view boxing game inspired by Smash Bros mechanics..
+    A fast-paced 2D side-view boxing game inspired by Smash Bros mechanics.
   description: |
     - Implemented core gameplay, UI, and game logic based on provided assets and design specs.
     - Handled full programming and collaborated with a project manager to deliver the final product.
