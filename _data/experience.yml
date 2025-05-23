@@ -62,9 +62,6 @@
     - Designed and scripted original AMXX gameplay mods tailored to community-driven modes.
     - Developed server-side plugins with MySQL integration for persistent gameplay features.
     - Analyzed engine behavior to implement advanced mechanics and improve gameplay balance.
-    - Created custom maps using Valve Hammer Editor to support new mod objectives.
     - Built a mobile companion app for real-time server monitoring and user interaction.
-    - Collaborated with a large online player base to iterate on design and features based on feedback.
-    - Monitored server usage stats and produced regular performance reports.
 
     Technologies: <mark>Pawn</mark> <mark>C++</mark> <mark>PHP</mark> <mark>JavaScript</mark> <mark>HTML</mark> <mark>CSS</mark> <mark>Git</mark> <mark>UNIX</mark>
