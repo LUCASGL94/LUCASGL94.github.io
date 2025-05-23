@@ -35,8 +35,7 @@ linkedin_username: lucas-garcía-laporta
 # About Section
 about_title: About Me
 #about_profile_image: images/profile.png
-about_content: |
-As a Senior Software Engineer, I bring over a decade of experience in game development, with a focus on optimization, performance tuning, and system enhancements. My work involves implementing robust gameplay features, identifying and resolving performance bottlenecks, and improving engine systems to ensure seamless user experiences.
+about_content: As a Senior Software Engineer, I bring over a decade of experience in game development, with a focus on optimization, performance tuning, and system enhancements. My work involves implementing robust gameplay features, identifying and resolving performance bottlenecks, and improving engine systems to ensure seamless user experiences.
 
 # Experience Section
 experience_title: Experience
