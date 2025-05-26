@@ -18,6 +18,14 @@
     - Collaborated with a developer to deliver a complete, optimized game.
 
 - layout: top-middle
+  name: Spaceship Game Optimization
+  github: EAX94/SpaceshipGameOptimization
+  quote: >
+    An endless 2D side-view spaceship game
+  description: |
+    - A videogame built entirely in C#/.NET showcasing the framework's capabilities along with advanced optimization techniques.
+
+- layout: top-middle
   name: Entity List Finder
   github: EAX94/Entity-List-Finder
   quote: >
