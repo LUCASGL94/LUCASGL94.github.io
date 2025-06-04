@@ -1,5 +1,13 @@
 # Project template
 - layout: top-middle
+  name: AI Movie Recommender
+  github: EAX94/AI-Movie-Recommender
+  quote: >
+    Python-based movie and TV recommender using NLP and vector similarity on metadata embeddings.
+  description: |
+    - NLP-driven recommender system in Python using cosine similarity on metadata embeddings.
+
+- layout: top-middle
   name: Let's Go Champ
   #github: EAX94/Entity-List-Finder
   quote: >
